@@ -78,14 +78,14 @@ then enter `docker-compose logs -f wireguard`
 and scan the QR code from your phone in the wireguard app.
 
 
-![first ip](../IMG_7104.jpeg)
+url('/IMG_7104.jpeg');
 
 
 
 ![sec ip](../IMG_7105.jpeg)
 
 
-[![tunnel](../IMG_7106.png)](https://github.com/brooksrog8/dockerVPN.github.io/issues/new)
+url('/IMG_7106.png')
 
 I had trouble getting my VPN to work with my desktop, its a bit different because there's no app for linux so you had to configure wg0
 ![wg0 Config](<Screenshot from 2023-12-11 02-38-39.png>)
