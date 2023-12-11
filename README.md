@@ -86,6 +86,8 @@ and scan the QR code from your phone in the wireguard app.
 
 ![IMG_7106](https://github.com/brooksrog8/dockerVPN.github.io/assets/114731707/5aea2789-73e8-4f3c-8ac9-b3255945836e)
 
+
+## Vpn on Laptop
 I had trouble getting my VPN to work with my desktop, its a bit different because there's no app for linux so you had to configure wg0
 
 
@@ -94,7 +96,7 @@ I had trouble getting my VPN to work with my desktop, its a bit different becaus
 
 
 
-I've looked at all the forums and nothing will work. Whatever I am missing must be very small. Here is my result when I try to ping. For some reason I get 100% packet loss.
+I've looked at all the forums and nothing will work. Whatever I am missing must be very small. Here is my result when I try to ping. For some reason I get 100% packet loss. I tried doing what it said in the slides, just copying to local, but nothing happened.
 
 ![Screenshot from 2023-12-11 02-38-51](https://github.com/brooksrog8/dockerVPN.github.io/assets/114731707/58b0a42c-fb33-4683-9db3-376abf2a444b)
 
