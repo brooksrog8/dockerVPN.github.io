@@ -13,7 +13,7 @@ sudo apt-get remove docker docker-engine docker.io
 sudo apt install docker.io
 sudo snap install docker.io
 ```
-It then said my kernel was outdated and I had to reboot so that fixed the problem.
+If you get an error that says the kernel is outdated just update and reboot.
 
 Then test to see if docker is working by running
 ```shell
