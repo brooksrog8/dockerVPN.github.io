@@ -1,12 +1,10 @@
-# dockerVPN.github.io
+# Wireguard phone VPN server using docker and digital ocean droplet
 
-# Docker Proj
-
-I first created a droplet on digital ocean and made a ssh key by using the following commands:
+Create a droplet on digital ocean and made a ssh key:
 ```shell
 ssh-keygen
 ```
-then ssh into your server and download docker
+SSH into your server and download docker
 
 ```shell
 sudo apt-get remove docker docker-engine docker.io
@@ -20,7 +18,7 @@ Then test to see if docker is working by running
 sudo docker run hello-world
 ```
 
-Now set up wireguard
+# Wireguard Setup
 
 run the following commands on your server 
 ```shell
