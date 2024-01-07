@@ -77,6 +77,8 @@ then enter `docker-compose logs -f wireguard`
 and scan the QR code from your phone in the wireguard app.
 
 
+![wireguarpic](https://github.com/brooksrog8/dockerVPN.github.io/assets/114731707/6078a8cc-06f8-45be-a88d-1f0a83132981)
+
 ![IMG_7104](https://github.com/brooksrog8/dockerVPN.github.io/assets/114731707/2d819030-3eb0-4644-b86c-0f4c69202d28)
 
 
