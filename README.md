@@ -87,45 +87,4 @@ and scan the QR code from your phone in the wireguard app.
 ![IMG_7106](https://github.com/brooksrog8/dockerVPN.github.io/assets/114731707/5aea2789-73e8-4f3c-8ac9-b3255945836e)
 
 
-## Vpn on Laptop
-I tried doing what the slides said, just copying folder containing wireguard config and starting but nothing happened. Heres a screenshot of me starting 
 
-
-![Screenshot from 2023-12-11 19-39-51](https://github.com/brooksrog8/dockerVPN.github.io/assets/114731707/e9f0e78d-5c76-477a-afc1-cb7522333812)
-
-And here is my result.
-![Screenshot from 2023-12-11 19-39-15](https://github.com/brooksrog8/dockerVPN.github.io/assets/114731707/7ad6ea65-bc25-4c2a-a6e1-48943c2f3ed8)
-
-
-
-I looked on the forums and people said to configure wg0 so I tried doing that.
-
-
-
-![Screenshot from 2023-12-11 02-38-39](https://github.com/brooksrog8/dockerVPN.github.io/assets/114731707/73ecb2a5-7b7b-4709-96c2-ce106c55da1d)
-
-
-
-And here is my result when I try wg
-
-![Screenshot from 2023-12-11 02-44-42](https://github.com/brooksrog8/dockerVPN.github.io/assets/114731707/4742b90d-bc5d-48f9-9601-b854ccfa621a)
-
-
- It says my connection is established by the keepalive packets so my connection is open.
-
- Here is my result when I try to ping Google
-
-![Screenshot from 2023-12-11 02-47-43](https://github.com/brooksrog8/dockerVPN.github.io/assets/114731707/810dd02d-a3e5-467d-9075-68773a57461e)
-
-
- And here's my wg0.conf for my server side
-
-![Screenshot from 2023-12-11 02-59-45](https://github.com/brooksrog8/dockerVPN.github.io/assets/114731707/5efd45e1-15cc-44e2-badb-ba1a3693632f)
-
-
-Here is my result on ipleak
-
-![Screenshot from 2023-12-11 19-37-58](https://github.com/brooksrog8/dockerVPN.github.io/assets/114731707/7b182623-379a-4b62-954d-e8e89b1237a8)
-
-
-Still does not work..
